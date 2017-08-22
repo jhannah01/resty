@@ -1,0 +1,54 @@
+# temporal files
+.*.sw[po]
+*.py[co]
+*.log
+.local/
+.ipy_sqdb.sqlite
+*.csv
+*.txt
+.DS_Store
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# virtualenv
+venv/
+ENV/
+.venv/
+
+# Rope project settings
+.ropeproject
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
